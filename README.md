@@ -56,13 +56,6 @@ Alongside my academic journey, I actively learn and practice HTML, CSS, JavaScri
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coenasiiimverse&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-
 ## 👀 Profile Views
 
 <p align="center">
