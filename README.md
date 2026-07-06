@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mđ ÑaŚįm BăBų</h1>
+<h1 align="center">Hi 👋, I'm Md Nasim Babu </h1>
 
 <h3 align="center">
 💻 CSE Student | 🌱 Aspiring Full Stack Developer | 🇧🇩 Bangladesh
@@ -12,12 +12,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student
-- 🌱 Currently learning **HTML, CSS, JavaScript, React, Node.js & Full Stack Development**
-- 💻 Passionate about Web Development
-- 🇧🇩 From Bangladesh
+I'm Md Nasim Babu, a Computer Science and Engineering (CSE) student at Varendra University, Bangladesh, with a strong interest in Web Development and Software Engineering. I am continuously building a solid foundation in programming, data structures, algorithms, database systems, and modern web technologies. 
 
----
+Alongside my academic journey, I actively learn and practice HTML, CSS, JavaScript, React, Node.js, Git & GitHub, while enhancing my programming skills in C, C++, Java, Python, and MySQL through hands-on projects. Passionate about continuous learning and problem-solving, I strive to develop practical software solutions and grow into a skilled Full Stack Web Developer.
+
+📫 Let's connect and grow together!
+ 
+ 📧 Email: nasimb376@gmail.com
 
 ## 🚀 Languages & Tools
 
@@ -71,17 +72,6 @@
 - 🍃 MongoDB
 - 🔥 Git & GitHub
 - 🎨 UI/UX Basics
-
----
-
-## 🎯 Goals for 2026
-
-- ✅ Become a Full Stack Web Developer
-- ✅ Build Real-World Projects
-- ✅ Contribute to Open Source
-- ✅ Strengthen Problem Solving Skills
-- ✅ Complete More Professional Courses
-
 ---
 
 ## 👀 Profile Views
