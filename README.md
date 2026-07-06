@@ -15,7 +15,6 @@
 - 🎓 CSE Student
 - 🌱 Currently learning **HTML, CSS, JavaScript, React, Node.js & Full Stack Development**
 - 💻 Passionate about Web Development
-- 🏏 Cricket Enthusiast
 - 🇧🇩 From Bangladesh
 
 ---
