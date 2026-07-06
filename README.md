@@ -13,7 +13,6 @@
 
 - 🌱 Learning **HTML, CSS, JavaScript, React & Node.js**
 - 🎯 Future Full Stack Developer
-- 📚 BCS Aspirant
 - 🏏 Cricket Lover
 - 🇧🇩 From Bangladesh
 
@@ -22,7 +21,7 @@
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mysql,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mysql,figma,python,C Programming,C++,Java Programming"/>
 </p>
 
 ---
