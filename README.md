@@ -12,6 +12,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering (CSE) student at Varendra University, Bangladesh, with a strong interest in Software Engineering and Web Development. I believe in continuous growth, discipline, and lifelong learning. My goal is to build meaningful software, contribute to impactful projects, and continuously improve as a developer.
+I'm a Computer Science and Engineering (CSE) student at Varendra University, Bangladesh, with a strong interest in Software Engineering and Web Development. 
+
+I believe in continuous growth, discipline, and lifelong learning. My goal is to build meaningful software, contribute to impactful projects, and continuously improve as a developer.
 
 Thanks for visiting my profile!
