@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Nasim Babu </h1>
+<h1 align="center">Hi 👋, I'm Md Nasim BaBu </h1>
 
 <h3 align="center">
 💻 CSE Student | 🌱 Aspiring Software Engineer| 🇧🇩 Bangladesh
