@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Nasim Babu </h1>
 
 <h3 align="center">
-💻 CSE Student | 🌱 Aspiring Full Stack Developer | 🇧🇩 Bangladesh
+💻 CSE Student | 🌱 Aspiring Software Engineer| 🇧🇩 Bangladesh
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;CSE+Student;Learning+Full+Stack+Web+Development;Future+Full+Stack+Developer;Open+to+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;CSE+Student;Always+Learning;Future+Developer;Open+to+Learning+New+Technologies" />
 </p>
 
 ---
